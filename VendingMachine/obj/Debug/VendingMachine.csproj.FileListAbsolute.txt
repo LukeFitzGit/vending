@@ -1,0 +1,10 @@
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\Lukes-Computer\source\repos\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
